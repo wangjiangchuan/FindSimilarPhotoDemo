@@ -17,8 +17,8 @@ import android.widget.Toast;
 
 import com.example.root.findsimilary.R;
 import com.example.root.findsimilary.adapter.ListAdapter;
-import com.meizu.similarphoto.infos.PicSimilarInfo;
-import com.meizu.similarphoto.tools.ImageTools;
+import com.example.root.findsimilar.infos.PicSimilarInfo;
+import com.example.root.findsimilar.tools.ImageTools;
 
 import java.util.ArrayList;
 import java.util.List;

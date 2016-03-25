@@ -8,7 +8,7 @@ import android.widget.BaseAdapter;
 
 import com.example.root.findsimilary.R;
 
-import com.meizu.similarphoto.infos.PicSimilarInfo;
+import com.example.root.findsimilar.infos.PicSimilarInfo;
 import com.example.root.findsimilary.view.MyGridView;
 
 import java.util.ArrayList;

@@ -19,7 +19,7 @@ import com.example.root.findsimilary.R;
 import com.example.root.findsimilary.activity.MainActivity3;
 import com.example.root.findsimilary.tools.NativeImageLoader;
 import com.example.root.findsimilary.view.MyGridView;
-import com.meizu.similarphoto.infos.PicSimilarInfo;
+import com.example.root.findsimilar.infos.PicSimilarInfo;
 
 /**
  * Created by wangjiangchuan on 16-3-7.

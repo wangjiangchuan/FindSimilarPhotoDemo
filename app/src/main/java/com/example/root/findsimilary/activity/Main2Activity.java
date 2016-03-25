@@ -9,9 +9,9 @@ import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 
 import com.example.root.findsimilary.R;
-import com.meizu.similarphoto.infos.PicInfo;
-import com.meizu.similarphoto.infos.PicSimilarInfo;
-import com.meizu.similarphoto.tools.PictureUtils;
+import com.example.root.findsimilar.infos.PicInfo;
+import com.example.root.findsimilar.infos.PicSimilarInfo;
+import com.example.root.findsimilar.tools.PictureUtils;
 
 import java.util.ArrayList;
 import java.util.List;
